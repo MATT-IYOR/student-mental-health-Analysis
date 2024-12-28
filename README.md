@@ -10,6 +10,8 @@
 
 This project aimed at at analyzing, understanding, and predicting depression levels among students. By analyzing various part of the data,we seek to Identifying factors correlated with depression,Predicting depression risk based on other variables and Evaluating intervention strategies.
 
+![MENTAL HEALTH ANALYSIS SC ](https://github.com/user-attachments/assets/de796ba9-db5c-4c2d-8a60-91a9098ccdea)
+
 ### Data Source
 
 The primary datasets used for the analysis is the "Student Depression Dataset.csv" form kaggle.
