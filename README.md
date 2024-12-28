@@ -1,6 +1,6 @@
 # Student Depression Analysis
 
-### Table of contents
+## Table of contents
 
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
